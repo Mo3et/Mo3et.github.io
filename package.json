@@ -1,0 +1,9 @@
+{
+  "name": "mo3et.github.io",
+  "version": "1.0.0",
+  "description": "Monet Github Pages Blog",
+  "main": "index.js",
+  "repository": "git@github.com:Mo3et/mo3et.github.io.git",
+  "author": "Mo3et <Monet_lee@163.com>",
+  "license": "MIT"
+}
